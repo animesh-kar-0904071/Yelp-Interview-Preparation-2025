@@ -34,10 +34,12 @@ Even though I wasn’t selected, the experience was incredibly valuable. These r
 
  - Data Structures & Algorithms (LeetCode-style problems)
 
- - System Design fundamentals: Byte Byte Go, Youtube channels.
+ - System Design fundamentals: Byte Byte Go(https://github.com/ani0904071/system-design-101), & Youtube channels. Major topics are mentioned below:
     -   back of the Envelop Estimation
     -   Scalability & reliability
-    -   APIs
+    -   Design RESTFul APis
+    -   Rate Limiting
+    -   Generate Tiny URL 
     -   Caching
     -   User Content Download
     -   Geo spatial location search 
