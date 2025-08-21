@@ -49,7 +49,10 @@ Even though I wasn’t selected, the experience was incredibly valuable. These r
 
 🙌 Why I’m Sharing This
 
-I know how tough interview prep can be. Not making it through after 6 rounds was hard, but I believe the effort is never wasted if it can help someone else. Moreover, I **attened 4 interviews**, and **cracked 3 interviews** except Yelp. The preparation for Yelp really boosted my confidence and helped me figuring out the knowledge I was lacking.
+Firstly, I wanted to switch my current company where I was doing **meaningless Angular front-end without any proper database, security & DevOps practice**.
+
+
+I knew how tough interview prep can be. Not making it through after 6 rounds was hard, but I believe the effort is never wasted if it can help someone else. Moreover, I **attened 4 interviews**, and **cracked 3 interviews** except Yelp. The preparation for Yelp really boosted my confidence and helped me figuring out the knowledge I was lacking.
 
 Feel free to explore, practice, and even contribute improvements to this repo. If you’re preparing for Yelp or any big tech interviews, I hope this guide gives you a solid starting point.
 
